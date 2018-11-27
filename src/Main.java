@@ -17,6 +17,9 @@ public class Main {
             case "Peterpan":
                 System.out.println("Bangarang");
                 break;
+
+            default:
+                System.out.println("System.err.println");
         }
     }
 }
