@@ -20,6 +20,7 @@ public class Main {
 
             default:
                 System.out.println("System.err.println");
+                break;
         }
     }
 }
